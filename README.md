@@ -4,7 +4,7 @@ This a small Script for which checks amazon price for ever hour.
 If there is a price fall it will notify you through mail 
 
 # Limitation:
-- For now its just barebonres it needs a computer or a devices for working 
+- For now its just barebones it needs a computer or a devices for working 
 - Not a standalone app
 - just works with google accounts
 
